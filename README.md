@@ -1,6 +1,8 @@
 About
 =====
 
+[![Build Status](https://travis-ci.org/dgutov/diff-hl.svg?branch=master)](https://travis-ci.org/dgutov/diff-hl)
+
 `diff-hl-mode` highlights uncommitted changes on the left side of the window,
 allows you to jump between and revert them selectively.
 
